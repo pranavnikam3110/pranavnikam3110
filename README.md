@@ -1,12 +1,10 @@
 ### Hi there 👋, Pranav Nikam
 #### Web-Designer|Web-Developer|Programmer.
-![Web-Designer|Web-Developer|Programmer.](https://pranavnikam3110.github.io/git-banner.github.io/)
-
+https://github.com/pranavnikam3110/pranavnikam3110/blob/main/github.jpg
 Hello,Myself Pranav Nikam I am currently in my second year of graduation perusing the degree of B.E from SPPU University,Pune. I am very passionate about technology.
 
 Skills: HTML | CSS | JAVASCRIPT | ANDROID | C++ PROGRAMMING.
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranavnikam3110)  
