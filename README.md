@@ -1,8 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pranav Nikam</h1>
-<h3 align="center">Web-Developer | Android Developer.</h3>
+### Hi there 👋, Pranav Nikam
+#### Web-Designer|Web-Developer|Programmer.
+![Web-Designer|Web-Developer|Programmer.](https://pranavnikam3110.github.io/git-banner.github.io/)
+
+Hello,Myself Pranav Nikam I am currently in my second year of graduation perusing the degree of B.E from SPPU University,Pune. I am very passionate about technology.
+
+Skills: HTML | CSS | JAVASCRIPT | ANDROID | C++ PROGRAMMING.
+
+- 🔭 I’m currently working on this page. 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranavnikam3110)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavnikam3110)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavnikam3110)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavnikam3110&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranavnikam3110)  
+
+![GitHub metrics](https://metrics.lecoq.io/pranavnikam3110)  
+
+![Profile views](https://gpvc.arturio.dev/pranavnikam3110)  
