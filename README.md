@@ -1,9 +1,9 @@
 # Hi there 👋,**Pranav Nikam**
 ### Web-Designer|Web-Developer|Programmer.
-####![I am GitHub Readme Generator's creator](https://github.com/pranavnikam3110/pranavnikam3110/blob/main/github2.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/pranavnikam3110/pranavnikam3110/blob/main/github2.jpg)
 Hello,Myself Pranav Nikam I am currently in my second year of graduation perusing the degree of B.E from SPPU University,Pune. I am very passionate about technology.
 
-####Skills: HTML | CSS | JAVASCRIPT | ANDROID | C++ PROGRAMMING.
+Skills: HTML | CSS | JAVASCRIPT | ANDROID | C++ PROGRAMMING.
 
 
 
